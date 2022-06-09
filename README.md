@@ -3,5 +3,5 @@
 http://lrgs.ftsm.ukm.my/users/a175838/myPT4/login.php  
 
 To login, use:  
-Email: nuruh@gamil.com  
+Email: nuruh@gamil.com  <!-- normal staff account -->
 Password: 123456
